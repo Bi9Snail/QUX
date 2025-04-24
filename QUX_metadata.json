@@ -1,0 +1,9 @@
+{
+  "name": "QNAX",
+  "symbol": "QUX",
+  "description": "QUX is a cryptocurrency designed for digital asset traders. Traders who engage in trading based on QNAX analyses and indicators can either earn or utilize QUX.",
+  "extensions": {
+  },
+  "tags": ["Indicator, Utility, Trading"],
+  "image": "https://raw.githubusercontent.com/Bi9Snail/QUX/main/QUX_logo.png"
+}
